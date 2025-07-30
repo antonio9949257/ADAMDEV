@@ -7,6 +7,11 @@ body {
     background-color: #0D1117;
     color: #E6EDF3;
 }
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
 
 .bg-custom-dark {
     background-color: #010409 !important;
